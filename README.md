@@ -1,4 +1,4 @@
-# Gomoku Game
+# Calculator
 > Calculator App wrote in Java language, using Jshell Api for calculations.
 
 ## Technologies
